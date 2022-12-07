@@ -22,5 +22,3 @@ To insert an image into the text, you need to write:
 ## Quotes.
 
 ## Conclusion.
-
-[def]: volk.jpg
