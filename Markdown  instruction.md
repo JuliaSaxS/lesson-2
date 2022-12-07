@@ -8,7 +8,7 @@
 
 ## Links.
 
-## Working with tabs.
+## Working with tables.
 
 ## Quotes.
 
