@@ -13,7 +13,7 @@ Alternative ways to highlight text in italics and bold are needed to combine the
 ## Working with images.
 
 To insert an image into the text, you need to write:
-![It's a wolf.]()
+![It's a wolf.](wolf.jpg)
 
 ## Links.
 
