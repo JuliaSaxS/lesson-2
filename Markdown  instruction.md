@@ -2,14 +2,19 @@
 
 ## Text selection.
 
-To highlight the text in italics, you need to frame it with a symbol (*) or (_). For example *like this* or _like this_.
-
-To highlight the text in bold, you need to frame it with two symbols (**) or (__). For example **like this** or __like this__.
-
-Alternative ways to highlight text in italics and bold are needed to combine the use of these methods. For example, the _text can be italicized, but at the same time be **bold**_.
-
 ## Lists.
-To highlight an unnumbered list, use (*).
+
+To add unnumbered lists, you need to put a symbol (*) or (+) before each item in the list. For example, like this:
+* Element 1
+* Element 2
++ Element 3
++ Element 4
+  
+To add numbered lists, you need to number each item in the list. For example, like this:
+1. Element 1
+2. Element 2
+3. Element 3
+
 ## Working with images.
 
 To insert an image into the text, you need to write:
