@@ -2,6 +2,17 @@
 
 ## Text selection.
 
+Headings are highlighted using signs ("=") if the title is of the first level, and signs ("-") if the title is of the second level. The number of underscores is unlimited. For example:
+
+First level header.
+=================
+Second level header.
+-------------------------
+When highlighting headings with a sign ("#"), the sign is set in the header at the beginning of the line (before the header). The header level is determined by the number of initial characters (from 1 to 6). For example:
+# First level.
+### Third level.
+#### Fifth level.
+
 ## Lists.
 
 To add unnumbered lists, you need to put a symbol (*) or (+) before each item in the list. For example, like this:
