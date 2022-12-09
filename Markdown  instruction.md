@@ -26,4 +26,6 @@ To insert an image into the text, you need to write:
 
 ## Quotes.
 
+The sign (">") is used to indicate quotations.
+
 ## Conclusion.
