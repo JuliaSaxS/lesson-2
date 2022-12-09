@@ -2,7 +2,7 @@
 
 ## Text selection.
 
-Headings are highlighted using signs ("=") if the title is of the first level, and signs ("-") if the title is of the second level. The number of underscores is unlimited. For example:
+Headings are highlighted using signs ("=") if the title is of the first level, and signs ("-") if the title is of the second level. The number of sings is unlimited. For example:
 
 First level header.
 =================
