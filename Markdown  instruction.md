@@ -94,3 +94,5 @@ It looks like this:
 ## Conclusion.
 
 We have learned the basic skills of working with version control.
+
+We continue self-improvement! ;P
