@@ -57,6 +57,21 @@ When using the abbreviated identifier, the label is not given, instead the hyper
 
 ## Working with tables.
 
+The header and alignment settings (second line) are required. Alignment is set by a sign (:). Columns are set by a sign (|).
+
+| first | second | third |
+| ------------- |:-------------:| -----:|
+| 1. | 1.1 | 1.2 |
+| 2. | 2.1 | 2.2 |
+| 3. | 3.1 | 3.2 |
+
+External signs (|) are optional, and it is also not necessary to adjust the columns to the same size.
+
+Hello | World | !
+--- | --- | ---
+3 | 2 | 1
+1 | 2 | 3
+
 ## Quotes.
 
 The sign (">") is used to indicate quotations.  It can be inserted both before each line of the quotation, and only before the first line of the paragraph. 
