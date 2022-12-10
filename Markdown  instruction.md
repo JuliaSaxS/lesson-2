@@ -92,3 +92,5 @@ It looks like this:
 >>> Third level
 
 ## Conclusion.
+
+We have learned the basic skills of working with version control.
